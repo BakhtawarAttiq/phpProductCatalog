@@ -19,7 +19,8 @@ A simple PHP + MySQL CRUD application to manage products. Built as a mini e-comm
 - PDO (secure DB connection)
 
 ## 📷 Screenshot
-![Screenshot](screenshot.png)
+![image](https://github.com/user-attachments/assets/41ebc5e8-82d7-4abb-8578-fa22b7b77ca0)
+
 
 ## 🔧 How to Run
 
